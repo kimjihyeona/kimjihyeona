@@ -14,9 +14,9 @@
      <img src="https://img.shields.io/badge/React-61DAFB?style=platic&logo=react&logoColor=black"/>
      <img src="https://img.shields.io/badge/Redux-764ABC?style=platic&logo=redux&logoColor=white"/>
      <img src="https://img.shields.io/badge/React Router-ca4245?style=platic&logo=react router&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Axios-5a29e4?style=platic&logo=axios&logoColor=white"/>
   <br/>
      <img src="https://img.shields.io/badge/Node.js-339933?style=platic&logo=node.js&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Axios-5a29e4?style=platic&logo=axios&logoColor=white"/>
      <img src="https://img.shields.io/badge/MongoDB-47A248?style=platic&logo=mongodb&logoColor=white"/>
   <br/>
      <img src="https://img.shields.io/badge/Amazon AWS-232f3e?style=platic&logo=amazon aws&logoColor=white"/> 
