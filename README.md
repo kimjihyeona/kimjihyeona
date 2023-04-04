@@ -6,7 +6,6 @@
   
   
     <img src="https://img.shields.io/badge/Docker-2496ED?style=platic&logo=docker&logoColor=white"/>
-    
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=platic&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=platic&logo=css3&logoColor=white"/>
      <img src="https://img.shields.io/badge/Sass-cc6699?style=platic&logo=sass&logoColor=white"/>
