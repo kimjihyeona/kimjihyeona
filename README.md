@@ -53,6 +53,4 @@
 <img src="https://img.shields.io/badge/React%20Hook%20Form-000000?style=for-the-badge&logo=reacthookform&logoColor=EC5990">&nbsp;
 <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3E67B1">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=kimjihyeona&show_icons=true&theme=default"
-/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjihyeona&show_icons=true&theme=radical)  
