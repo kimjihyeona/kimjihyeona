@@ -1,10 +1,4 @@
-# Hi there 👋
-
-## 🌿 About Me
-
-- 복잡한 걸 단순하게 정리하는 걸 좋아합니다  
-- UI보다 흐름과 맥락을 더 많이 고민합니다  
-
+<!--
 ## 🧩 Skills
 
 🧠 Core  
@@ -41,4 +35,4 @@
 ✅ Form & Validation  
 <img src="https://img.shields.io/badge/React%20Hook%20Form-000000?style=for-the-badge&logo=reacthookform&logoColor=EC5990">&nbsp;
 <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3E67B1">
-
+-->
